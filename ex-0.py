@@ -5,7 +5,7 @@ while i < 10:
     i += 1
     if i == 3:
         continue
-    print('I love Vivi Fernandes!', i)
+    print('Não imprimiu o 3', i)
 print('Saiu do while após executar tudo...')
 print()
 
@@ -14,14 +14,14 @@ while var > 0:
     var -= 1
     if var == 5:
         continue
-    print('I love Márcia Imperator', var)
+    print('Não imprimiu o 5', var)
 print('Saiu do while após executar tudo...')
 print()
 
 for i in range(10):
     if i == 3:
         continue
-    print('I love Bruna Ferraz and Fabiane Thompson', i)
+    print('Não imprimiu o 3', i)
 print('Saiu do for após executar tudo...')
 print()
 
